@@ -3,6 +3,9 @@
 # My Interests:
 I'm interested in learning to code in order to change career.
 
+# My Blog
+This is my journey on GitHub.com.
+
 # Get in Touch
 <ul>
 <li><a href="https://github.com/{{site.github_username}}">GitHub</a></li>
