@@ -5,4 +5,4 @@ author: jmayard
 Hello!
 This is my first blog post
 
-I just started readin "mindset" by  Dr Carols S. Dweck
+I just started reading "mindset" by  Dr Carols S. Dweck.
