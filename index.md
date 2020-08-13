@@ -6,7 +6,7 @@ I'm interested in learning to code in order to change career.
 # My Blog
 This is my journey on GitHub.com.
 <ul>
-  {% for post in site posts %}
+  {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}"> {{ post.title }} </a>
     </li>
